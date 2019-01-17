@@ -1,0 +1,11 @@
+D:\projects\AIAlgos\IDDFS\obj\Debug\netcoreapp2.2\IDDFS.csprojAssemblyReference.cache
+D:\projects\AIAlgos\IDDFS\obj\Debug\netcoreapp2.2\IDDFS.csproj.CoreCompileInputs.cache
+D:\projects\AIAlgos\IDDFS\obj\Debug\netcoreapp2.2\IDDFS.AssemblyInfoInputs.cache
+D:\projects\AIAlgos\IDDFS\obj\Debug\netcoreapp2.2\IDDFS.AssemblyInfo.cs
+D:\projects\AIAlgos\IDDFS\bin\Debug\netcoreapp2.2\IDDFS.deps.json
+D:\projects\AIAlgos\IDDFS\bin\Debug\netcoreapp2.2\IDDFS.runtimeconfig.json
+D:\projects\AIAlgos\IDDFS\bin\Debug\netcoreapp2.2\IDDFS.runtimeconfig.dev.json
+D:\projects\AIAlgos\IDDFS\bin\Debug\netcoreapp2.2\IDDFS.dll
+D:\projects\AIAlgos\IDDFS\bin\Debug\netcoreapp2.2\IDDFS.pdb
+D:\projects\AIAlgos\IDDFS\obj\Debug\netcoreapp2.2\IDDFS.dll
+D:\projects\AIAlgos\IDDFS\obj\Debug\netcoreapp2.2\IDDFS.pdb
