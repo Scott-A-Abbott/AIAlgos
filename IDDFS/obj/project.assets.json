@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mozar\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/wolfe/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\AIAlgos\\IDDFS\\IDDFS.csproj",
+      "projectUniqueName": "/Users/wolfe/projects/AIAlgos/IDDFS/IDDFS.csproj",
       "projectName": "IDDFS",
-      "projectPath": "D:\\projects\\AIAlgos\\IDDFS\\IDDFS.csproj",
-      "packagesPath": "C:\\Users\\Mozar\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\AIAlgos\\IDDFS\\obj\\",
+      "projectPath": "/Users/wolfe/projects/AIAlgos/IDDFS/IDDFS.csproj",
+      "packagesPath": "/Users/wolfe/.nuget/packages/",
+      "outputPath": "/Users/wolfe/projects/AIAlgos/IDDFS/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mozar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/wolfe/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
