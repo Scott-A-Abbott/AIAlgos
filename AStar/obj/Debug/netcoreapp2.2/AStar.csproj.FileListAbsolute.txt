@@ -1,0 +1,11 @@
+/Users/wolfe/projects/AIAlgos/AStar/bin/Debug/netcoreapp2.2/AStar.deps.json
+/Users/wolfe/projects/AIAlgos/AStar/bin/Debug/netcoreapp2.2/AStar.runtimeconfig.json
+/Users/wolfe/projects/AIAlgos/AStar/bin/Debug/netcoreapp2.2/AStar.runtimeconfig.dev.json
+/Users/wolfe/projects/AIAlgos/AStar/bin/Debug/netcoreapp2.2/AStar.dll
+/Users/wolfe/projects/AIAlgos/AStar/bin/Debug/netcoreapp2.2/AStar.pdb
+/Users/wolfe/projects/AIAlgos/AStar/obj/Debug/netcoreapp2.2/AStar.csprojAssemblyReference.cache
+/Users/wolfe/projects/AIAlgos/AStar/obj/Debug/netcoreapp2.2/AStar.csproj.CoreCompileInputs.cache
+/Users/wolfe/projects/AIAlgos/AStar/obj/Debug/netcoreapp2.2/AStar.AssemblyInfoInputs.cache
+/Users/wolfe/projects/AIAlgos/AStar/obj/Debug/netcoreapp2.2/AStar.AssemblyInfo.cs
+/Users/wolfe/projects/AIAlgos/AStar/obj/Debug/netcoreapp2.2/AStar.dll
+/Users/wolfe/projects/AIAlgos/AStar/obj/Debug/netcoreapp2.2/AStar.pdb

@@ -6,7 +6,9 @@ namespace AStar
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            AStarAlgo algo = new AStarAlgo();
+            algo.search();
+            algo.ShowPath();
         }
     }
 }

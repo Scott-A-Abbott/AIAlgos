@@ -1,8 +1,9 @@
 using System;
+using System.Collections.Generic;
 
 namespace AStar
 {
-    public class Node
+    public class Node : IComparable<Node>
     {
         //how far away the node is from the starting point
         private int g;
@@ -29,15 +30,21 @@ namespace AStar
         public Node Predecessor { get => predecessor; set => predecessor = value; }
         public bool IsBlock { get => isBlock; set => isBlock = value; }
 
+        public int CompareTo(Node node)
+        {
+            NodeComparator nodeComparator = new NodeComparator();
+            return nodeComparator.Compare(this, node);
+        }
+
         public override bool Equals(Object node2)
         {
             Node otherNode = (Node)node2;
             return this.rowIndex == otherNode.RowIndex && this.clmnIndex == otherNode.ClmnIndex;
         }
+        public override int GetHashCode(){ return default(int); }
+
         public override string ToString(){
             return $"Node ({this.rowIndex};{this.clmnIndex}) h:{this.h} - g:{this.g} - f={this.F}";
         }
     }
-
-    //override
 }
